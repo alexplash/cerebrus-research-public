@@ -1,0 +1,6 @@
+
+venv/
+__pycache__/
+plot_accuracy.ipynb
+calculate_metrics.ipynb
+job.yaml
