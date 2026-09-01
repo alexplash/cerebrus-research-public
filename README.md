@@ -1,5 +1,7 @@
 # Cerebrus Research Code
 
+![](images/image.png)
+
 Code accompanying the research paper.
 
 ## Repository structure
